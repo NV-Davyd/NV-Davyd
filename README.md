@@ -1,9 +1,9 @@
-<a href="https://github.com/NV-Davyd/NeXT">
+<p><a href="https://github.com/NV-Davyd/NeXT">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/next-wordmark-white.png">
     <img src="assets/next-wordmark-black.png" alt="NeXT" width="320">
   </picture>
-</a>
+</a></p>
 
 I build mods for CarX Drift Racing Online.
 
